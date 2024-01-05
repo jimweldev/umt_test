@@ -1,3 +1,3 @@
 !macro customInstall
-  CreateShortCut "$DESKTOP\Test.lnk" "$INSTDIR\Test.exe"
+  CreateShortCut "$SMSTARTUP\UMT Test.lnk" "$INSTDIR\UMT Test.exe"
 !macroend
