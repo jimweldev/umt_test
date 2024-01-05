@@ -35,7 +35,7 @@ function createWindow() {
   autoUpdater.setFeedURL({
     provider: 'github',
     owner: 'jimweldev',
-    repo: 'autoupdate'
+    repo: 'umt_test'
     // token: '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'
   })
 

@@ -13,6 +13,8 @@ asarUnpack:
 win:
   executableName: umt_test
 nsis:
+  oneClick: false
+  perMachine: true
   artifactName: ${name}-${version}-setup.${ext}
   shortcutName: ${productName}
   uninstallDisplayName: ${productName}
